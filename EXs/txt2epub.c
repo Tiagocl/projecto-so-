@@ -28,7 +28,7 @@ int main(int argc, char* argv[]) {
 
                 printf ("[%d] converting %s...\n", getpid(),str);
 
-                //converting
+                //converting to epub 
                 char buffer[40];
                 snprintf(buffer, sizeof(buffer), "pandoc %s -o %s", str, ptr);
                 system(buffer);
@@ -37,11 +37,10 @@ int main(int argc, char* argv[]) {
                 char buf[40];
                 snprintf(buf, sizeof(buf), "zip ebooks.zip %s", ptr);
                 system(buf);
-                
 
+                //free allocated memory
                 free(str);
                 free(ptr);
-                
                 exit(0);
             }
         }
