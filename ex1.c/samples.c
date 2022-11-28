@@ -20,6 +20,7 @@ int main(int argc, char* argv[]) {
     char *str = (char*)malloc(m); //array de char 
     int d;
     srand((unsigned) time(&t));
+    
     for(int i =0;i<n;i++) {
         d = rand() % length;
         printf(">");
