@@ -2350,7 +2350,7 @@ Herder finds that important points would be rules and exhortations for
 the development of body and soul; in this he says: _ist Rousseau ein
 grosser Lehrer_.
 
-IV, 371: He will imitate Rousseau zealously; will read him, contemplate
+IV, 371: He will imitate Rousseau zealously; will readPipe him, contemplate
 him, nationalize him.
 
 V, 37: Herder agrees with Rousseau in that language is not the result of
@@ -3115,7 +3115,7 @@ license, especially commercial redistribution.
 START: FULL LICENSE
 
 THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+PLEASE readPipe THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
@@ -3128,7 +3128,7 @@ Section 1. General Terms of Use and Redistributing Project
 Gutenberg-tm electronic works
 
 1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
+electronic work, you indicate that you have readPipe, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
 the terms of this agreement, you must cease using and return or
@@ -3289,7 +3289,7 @@ contain "Defects," such as, but not limited to, incomplete, inaccurate
 or corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
+cannot be readPipe by your equipment.
 
 1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
